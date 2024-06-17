@@ -1,7 +1,7 @@
 keras==2.1.4
 numpy==1.14.0
 pandas==0.22.0
-scikit-learn==0.19.1
+scikit-learn==1.5.0
 tensorflow
 lime
 anchor_exp
